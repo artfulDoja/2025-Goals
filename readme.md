@@ -174,6 +174,17 @@ Task 1
  
 </details>
 
+<details>
+
+  <summary> Doja's Q1 Goals </summary>
+  
+Q1
+- Pyhton refresh using Python Crashcourse by Eric Matthes
+- SQL refresh using SQL in 10mins by Ben Forta 
+- Spark Refresher using High Performance Spark by Holden Karau
+
+</details>
+
 
 <details>
 
